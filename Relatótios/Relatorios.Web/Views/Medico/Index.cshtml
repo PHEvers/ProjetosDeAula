@@ -1,0 +1,39 @@
+﻿<div class="text-center">
+    <h1 class="display-4">Relatóroio de médicos</h1>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a> CRM </a>
+            </th>
+            <th>
+                <a> Nome </a>
+            </th>
+            <th>
+                <a> Especialidade </a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.id )*@
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.nome)*@
+                </td>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.empresaId)*@
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Agenda" asp-route-id="#">Agenda</a> |
+                    <a class="btn btn-primary" asp-action="Pacientes" asp-route-id="#">Pacientes</a> |
+                    <a class="btn btn-primary" asp-action="Detalhes" asp-route-id="#">Detalhes</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

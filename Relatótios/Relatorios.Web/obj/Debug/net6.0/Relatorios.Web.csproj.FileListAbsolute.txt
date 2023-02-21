@@ -1,0 +1,62 @@
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\appsettings.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.staticwebassets.runtime.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.exe
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.deps.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.runtimeconfig.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.dll
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.pdb
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.csproj.AssemblyReference.cache
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.AssemblyInfoInputs.cache
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.AssemblyInfo.cs
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.csproj.CoreCompileInputs.cache
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.RazorAssemblyInfo.cache
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.RazorAssemblyInfo.cs
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.Relatorios.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Relatorios.Web.props
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Relatorios.Web.props
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Relatorios.Web.props
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\scopedcss\bundle\Relatorios.Web.styles.css
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\scopedcss\projectbundle\Relatorios.Web.bundle.scp.css
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.dll
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\refint\Relatorios.Web.dll
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.pdb
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.genruntimeconfig.cache
+C:\DEV2BLU\Projetos de Aulas\Trabalho em grupo Relatório\Relatótios\Relatorios.Web\obj\Debug\net6.0\ref\Relatorios.Web.dll
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\appsettings.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.staticwebassets.runtime.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.exe
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.deps.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.runtimeconfig.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.dll
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\bin\Debug\net6.0\Relatorios.Web.pdb
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.csproj.AssemblyReference.cache
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.AssemblyInfoInputs.cache
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.AssemblyInfo.cs
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.csproj.CoreCompileInputs.cache
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.RazorAssemblyInfo.cache
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.RazorAssemblyInfo.cs
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.Relatorios.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Relatorios.Web.props
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Relatorios.Web.props
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Relatorios.Web.props
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\scopedcss\bundle\Relatorios.Web.styles.css
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\scopedcss\projectbundle\Relatorios.Web.bundle.scp.css
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.dll
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\refint\Relatorios.Web.dll
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.pdb
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\Relatorios.Web.genruntimeconfig.cache
+C:\DEV2BLU\Projetos De Aula\Relatótios\Relatorios.Web\obj\Debug\net6.0\ref\Relatorios.Web.dll

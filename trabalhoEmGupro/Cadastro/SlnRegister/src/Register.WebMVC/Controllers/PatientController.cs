@@ -37,8 +37,7 @@ namespace Register.WebMVC.Controllers
                 if (await _service.Save(patient) > 0) return RedirectToAction(nameof(Index)); 
             }
             ViewData["conditionId"] = new SelectList(await _conditionService.GetAll(), "id", "name", "Select...");
-            //return View(patient);
-            return RedirectToAction("Index");
+            return View(patient);
         }
 
         public async Task<IActionResult> Edit(int id)
@@ -60,8 +59,7 @@ namespace Register.WebMVC.Controllers
                 if (await _service.Save(patient) > 0) return RedirectToAction(nameof(Index));
             }
             ViewData["conditionId"] = new SelectList(await _conditionService.GetAll(), "id", "name", "Select...");
-            //return View(patient);
-            return RedirectToAction("Index");
+            return View(patient);
         }
 
         [HttpPost]

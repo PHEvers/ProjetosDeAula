@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Register.Infra.Data.Repository.Migrations
 {
     /// <inheritdoc />
-    public partial class CadastroHospitalar : Migration
+    public partial class teste2 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

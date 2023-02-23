@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "projeto-consumo-api": {
+    "atividade-api": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/projeto-consumo-api",
+            "outputPath": "dist/atividade-api",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "projeto-consumo-api:build:production"
+              "browserTarget": "atividade-api:build:production"
             },
             "development": {
-              "browserTarget": "projeto-consumo-api:build:development"
+              "browserTarget": "atividade-api:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -76,7 +76,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "projeto-consumo-api:build"
+            "browserTarget": "atividade-api:build"
           }
         },
         "test": {
@@ -102,6 +102,6 @@
     }
   },
   "cli": {
-    "analytics": false
+    "analytics": "1e71f597-3464-453d-9e25-0208ca0717b7"
   }
 }

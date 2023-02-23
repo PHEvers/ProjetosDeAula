@@ -11,10 +11,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-//Context SQL Server
-var connectionStringUser = builder.Configuration.GetConnectionString("SQLServerConnection");
+// Context SQL Server
 builder.Services.AddDbContext<SQLServerContext>
-    (options => options.UseSqlServer(connectionStringUser));
+    (options => options.UseSqlServer("Server=PCDOPH\\SQLEXPRESS;Database=Clinica;User Id=sa;Password=admin;TrustServerCertificate=True;Encrypt=False;"));
 
 //Repositories
 builder.Services.AddScoped<IConditionRepository, ConditionRepository>();

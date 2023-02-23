@@ -12,8 +12,8 @@ using Register.Infra.Data.Repository.Context;
 namespace Register.Infra.Data.Repository.Migrations
 {
     [DbContext(typeof(SQLServerContext))]
-    [Migration("20230215223124_CadastroHospitalar")]
-    partial class CadastroHospitalar
+    [Migration("20230222012858_teste2")]
+    partial class teste2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

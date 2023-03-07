@@ -5,6 +5,8 @@ using ProjetoNotas.Domain.Interfaces.IService;
 
 namespace ProjetoNotas.Application.API.Controllers
 {
+    [ApiController]
+    [Route("[controller]")]
     public class UserController : Controller
     {
         private readonly IUserService _userService;
@@ -12,6 +14,7 @@ namespace ProjetoNotas.Application.API.Controllers
         {
             _userService = service;
         }
+        [Route("[controller]")]
         public async Task<IActionResult> Index()
         {
             var list = _userService.FindAll();
